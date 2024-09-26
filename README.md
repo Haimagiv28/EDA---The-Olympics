@@ -3,9 +3,9 @@
 EDA - The Olympics is a Python - Data Analyst project i worked on during Data Analyst cousre.
 The project deals with 4 research questions:
   1. What is the distribution of athletes over the years by gender?
-  2. What is the optimal age and weight for winning an olympic medal?
-  3. What is the distribution for winning an olympic medal in Men and Female football?
-  4. What is the amount of medals of the United States Olympic team and its rank? 
+  2. What is the optimal age and weight for winning an Olympic medal?
+  3. What is the distribution for winning an Olympic medal in men's and women's football?
+  4. What is the number of medals for the United States Olympic team and its rank?
 
 In order to solve the research questions, I used the following tools:
   1. Python - Jupiter Notebook.
